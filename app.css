@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    margin: 0;
+}
+
+/* 
+#intro-image img {
+    width: 150px;
+    height: auto;
+    margin-top: 20px; */
+
+.logo-img {
+    width: 400px;
+}
+
+
+.landing-container {
+    display: flex;
+    justify-content: space-between;
+}
